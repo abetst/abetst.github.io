@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+h2 {
+	color: #78A4D3;
+	margin-top: 50px;
+}
+
+body {
+	color: #646464;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+img  {
+	width: 100%;
+	height: auto;
+}
+
+
+ol li {
+	list-style-type: lower-latin;
+}
+
+ul li {
+	list-style-type: circle;
+}
